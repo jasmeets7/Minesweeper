@@ -1,5 +1,7 @@
 # Minesweeper AI
 
+Minesweeper is a puzzle game where the objective is to clear a board containing hidden "mines" without detonating any of them. The AI developed in this project uses logical reasoning to safely identify and flag all the mines on the board.
+
 ## Table of Contents
 - [Description](#description)
 - [Technologies Used](#technologies-used)
